@@ -93,7 +93,6 @@ motto: "Code with purpose, build with passion"
 
 <div align="center">
 
-### Languages
 ## Tech Stack / Stack Tecnológico
 
 ### Languages
