@@ -2,7 +2,8 @@
 <!-- HEADER ANIMATION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:00b4d8&height=220&section=header&text=Juan%20Manuel%20Mosquera&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Flutter%20Enthusiast&descSize=18&descAlignY=55&descColor=a0f0e0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4aa,100:00b4d8&height=220&section=header&text=Juan%20Manuel%20Mosquera&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Developer%20%7C%20Flutter%20Enthusiast&descSize=18&descAlignY=55&descColor=a0f0e0" />
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- TYPING ANIMATION -->
